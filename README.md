@@ -1,7 +1,8 @@
 # EasyJvav
 
----
+EasyJvav is a simple Jvav IDE for everyone.
 
-EasyJvav is a simple Jvav IDE.
+you can use EasyJvav to write Jvav programs.
 
-#
+# What is Jvav?
+
